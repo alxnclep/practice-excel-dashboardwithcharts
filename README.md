@@ -1,4 +1,4 @@
-# practice-excel-dashboard_using pivot and charts
+# Practice-Excel-Dashboard_using Pivot and Charts
 _Hands-on Lab 3: Creating a Simple Dashboard with Excel_
 
 
